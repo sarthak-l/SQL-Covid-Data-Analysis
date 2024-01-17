@@ -1,12 +1,12 @@
 # SQL-Covid-Data-Analysis
 
-# Project Overview
+## Project Overview
 This project involves analyzing a dataset containing COVID-19 statistics to gain insights into the global impact of the pandemic. The analysis focuses on various aspects like global totals, country-wise breakdowns, testing rates, and more.
 
-# Data Source
+## Data Source
 The dataset used in this project is titled covid_data.csv and includes various metrics such as total cases, new cases, total deaths, new deaths, total recovered cases, active cases, serious cases, cases per million, deaths per million, total tests, tests per million, and population data for multiple countries.
 
-# Queries
+## Queries
 The SQL queries developed for this project are aimed at extracting meaningful insights from the COVID-19 data. They cover:
 
 Global Overview: Calculating the total number of cases, deaths, and recoveries globally.
@@ -21,5 +21,5 @@ Adjust the queries according to your specific database setup or additional data 
 SQL Queries
 All relevant SQL queries are provided in the covid_queries.sql file within this repository.
 
-# Contributing
+## Contributing
 Contributions, issues, and feature requests are welcome. Feel free to check issues page if you want to contribute.
