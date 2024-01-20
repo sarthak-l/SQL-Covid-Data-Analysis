@@ -14,7 +14,7 @@ Country-wise Analysis: Identifying the top 10 most affected countries and analyz
 Testing Analysis: Evaluating testing efforts by comparing testing rates per million across countries.
 (Additional) Time Series Analysis: Observing trends over time (requires date-based data).
 (Additional) Regional Variation Analysis: Comparing COVID-19 impact across different regions (requires region-based data).
-How to Use
+How to Use:
 Import the covid_data.csv file into your SQL database.
 Execute the provided SQL queries to perform the analysis.
 Adjust the queries according to your specific database setup or additional data columns available in your dataset.
