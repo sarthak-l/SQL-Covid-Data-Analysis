@@ -6,7 +6,7 @@
 This project aims to provide an in-depth analysis of COVID-19 data using advanced SQL queries. The analyses focus on global and country-specific statistics, including case totals, deaths, recoveries, and testing rates.
 
 ## Files Included
-- **covid_analysis.sql**: Contains SQL queries for extracting comprehensive insights from the COVID-19 dataset.
+- **Covid_Data_analysis.sql**: Contains SQL queries for extracting comprehensive insights from the COVID-19 dataset.
 - **covid_data.csv**: The raw dataset used for the analysis. Ensure that this file is imported into your SQL database before running the queries.
 
 ## SQL Queries Description
