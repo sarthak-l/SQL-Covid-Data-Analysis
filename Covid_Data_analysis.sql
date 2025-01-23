@@ -37,6 +37,5 @@ FROM
 ORDER BY
     TestPerM DESC;
 
--- Save and close the file after adding any other necessary SQL queries.
 
 
