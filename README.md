@@ -14,6 +14,7 @@ This project aims to provide an in-depth analysis of COVID-19 data using advance
 1. **Global Overview**: Calculates the global total number of COVID-19 cases, deaths, and recoveries.
 2. **Country-wise Analysis**: Identifies the top 10 countries with the highest number of cases and provides the case-fatality rate and recovery rate.
 3. **Testing Analysis**: Ranks countries based on their testing rates per million population.
+4. **ICU Pressure Comparison**: Identifies the top 10 country pairs with similar testing rates per million (±20%) and compares their serious-to-active case percentages to highlight disparities in ICU pressure.
 
 ## Usage
 To use the SQL queries provided, import your COVID-19 dataset into an SQL-compatible database system like MySQL, PostgreSQL, or SQLite. Execute the queries in the SQL file to retrieve the data.
