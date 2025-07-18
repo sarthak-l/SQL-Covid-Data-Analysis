@@ -3,7 +3,8 @@
 # COVID-19 Data Analysis Project
 
 ## Project Overview
-This project aims to provide an in-depth analysis of COVID-19 data using advanced SQL queries. The analyses focus on global and country-specific statistics, including case totals, deaths, recoveries, and testing rates.
+This project aims to provide an in-depth analysis of COVID-19 data using advanced SQL queries. The analyses focus on global and country-specific statistics, including case totals, deaths, recoveries, and testing rates. Additionally, it includes a comparison of ICU pressure between countries with similar testing rates to identify disparities in healthcare strain.
+
 
 ## Files Included
 - **Covid_Data_analysis.sql**: Contains SQL queries for extracting comprehensive insights from the COVID-19 dataset.
